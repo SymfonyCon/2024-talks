@@ -175,7 +175,7 @@ By [Guillaume Moigneu](https://connect.symfony.com/profile/gmoigneu)
   <dd>Rethink serialization in Symfony using new components like JsonEncoder and ObjectMapper. Learn how to simplify data serialization workflows.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://www.canva.com/design/DAGXxVq6D10/flKFopidYBR-gSgRXU8OIg/view)  
 ~~Video~~  
 ~~Blog post~~
 
