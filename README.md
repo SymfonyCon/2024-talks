@@ -894,7 +894,7 @@ By [Anne-Julia Seitz](https://connect.symfony.com/profile/dazs)
   <dd>What started out as a sweet PEAR is now a sour PECL, and after many years of dealing with brined cucumbers it’s time to dish out some sweet new tools. Join us for a trip down memory lane as we take a look at the acquired taste of PHP extensions and their challenges from writing and publishing them to finally handling the installation procedure you are all too familiar with. The talk will give you an insight into an effort by the PHP foundation to bake a new PHP Installer for Extensions and how it will solve some of the challenges of dealing with PHP extensions.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/alcaeus/from-pickles-to-pie-sweeten-your-php-extension-installs)  
 ~~Video~~  
 ~~Blog post~~
 
