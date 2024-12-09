@@ -896,7 +896,9 @@ By [Anne-Julia Seitz](https://connect.symfony.com/profile/dazs)
 
 [Slides](https://speakerdeck.com/alcaeus/from-pickles-to-pie-sweeten-your-php-extension-installs)  
 ~~Video~~  
-~~Blog post~~
+~~Blog post~~  
+[The PHP Installer for Extensions](https://github.com/php/pie)  
+[Extensions that support PIE](https://packagist.org/extensions)
 
 By [Andreas Braun](https://connect.symfony.com/profile/alcaeus)  
 💻 on [![github](icon/github.svg) @alcaeus](https://github.com/alcaeus)  <sup>[💚](https://github.com/sponsors/alcaeus)</sup>  
