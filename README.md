@@ -6,7 +6,7 @@
 > [!NOTE]  
 > - All talks are in **English**.
 > - You can send feedback and love to speakers on their social networks.
-> - Social posts during the event: [Blusky](https://bsky.app/search?q=%23symfonycon+since%3A2024-12-04+until%3A2024-12-09) · [Mastodon](https://mastodon.social/tags/symfonycon) · [Twitter](https://x.com/search?f=live&q=%28%23symfonycon+OR+%40symfonycon%29+until%3A2024-12-09+since%3A2024-12-04+-filter%3Areplies)
+> - Social posts during the event: [Blusky](https://bsky.app/search?q=%23symfonycon+since%3A2024-12-04+until%3A2024-12-10) · [Mastodon](https://mastodon.social/tags/symfonycon) · [Twitter](https://x.com/search?f=live&q=%28%23symfonycon+OR+%40symfonycon%29+until%3A2024-12-10+since%3A2024-12-04+-filter%3Areplies)
 
 ---
 
