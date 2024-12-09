@@ -12,7 +12,7 @@
 
 ## Keynote
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/fabpot/symfonycon-vienna-2025-twig-still-relevant-in-2025)  
 ~~Video~~  
 ~~Blog post~~  
 
