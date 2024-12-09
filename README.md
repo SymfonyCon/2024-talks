@@ -986,7 +986,7 @@ _✍ blog not found_
 ~~Video~~  
 
 By the [Symfony Core Team](https://symfony.com/doc/current/contributing/code/core_team.html#active-core-members)  
-💬 on [![bluesky](icon/bluesky.svg) BlueSky](https://bsky.app/profile/chalasr.bsky.social)
+💬 on [![bluesky](icon/bluesky.svg) BlueSky](https://bsky.app/starter-pack/fabien.potencier.org/3lbbuxn3fv327)
 
 ---
 ---
