@@ -178,9 +178,7 @@ By [Guillaume Moigneu](https://connect.symfony.com/profile/gmoigneu)
 [Slides](https://www.canva.com/design/DAGXxVq6D10/flKFopidYBR-gSgRXU8OIg/view)  
 ~~Video~~  
 ~~Blog post~~  
-[New Symfony Component](https://github.com/symfony/json-encoder)  
-[Related PRs](https://github.com/symfony/symfony/pull/51718)
-
+[New Symfony Component](https://github.com/symfony/json-encoder) <sup>([merged Pull Request](https://github.com/symfony/symfony/pull/51718))</sup>
 
 By [Mathias Arlaud](https://connect.symfony.com/profile/mtarld)  
 💻 on [![github](icon/github.svg) @mtarld](https://github.com/mtarld)  
@@ -409,7 +407,8 @@ After covering the history behind years of discussion and research by the Symfon
 
 [Slides](https://speakerdeck.com/soyuka/symfony-mapper-component)  
 ~~Video~~  
-[Blog post](https://soyuka.me/symfony-object-mapper-component/)
+[Blog post](https://soyuka.me/symfony-object-mapper-component/)  
+[Pull Request for `symfony/object-mapper`](https://github.com/symfony/symfony/pull/51741)
 
 By [Antoine Bluchet](https://connect.symfony.com/profile/soyuka)  
 💻 on [![github](icon/github.svg) @soyuka](https://github.com/soyuka)  <sup>[💚](https://github.com/sponsors/soyuka)</sup>  
