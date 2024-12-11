@@ -178,7 +178,7 @@ By [Guillaume Moigneu](https://connect.symfony.com/profile/gmoigneu)
 [Slides](https://www.canva.com/design/DAGXxVq6D10/flKFopidYBR-gSgRXU8OIg/view)  
 ~~Video~~  
 ~~Blog post~~  
-[New Symfony Component](https://github.com/symfony/json-encoder) <sup>([merged Pull Request](https://github.com/symfony/symfony/pull/51718))</sup>
+[New `symfony/json-encoder` Component](https://github.com/symfony/json-encoder) <sup>([merged Pull Request](https://github.com/symfony/symfony/pull/51718))</sup>
 
 By [Mathias Arlaud](https://connect.symfony.com/profile/mtarld)  
 💻 on [![github](icon/github.svg) @mtarld](https://github.com/mtarld)  
