@@ -133,14 +133,15 @@ We’ll review all that happened: new components (Icon, Map), added features to 
 Then we’ll explore the future of Symfony UX with a sneak peek at 2025, including one or two surprises!</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/smnandre/symfony-ux-2024-recap-and-whats-next)  
 ~~Video~~  
 ~~Blog post~~
 
 By [Simon André](https://connect.symfony.com/profile/simonandre)  
 💻 on [![github](icon/github.svg) @smnandre](https://github.com/smnandre)  <sup>[💚](https://github.com/sponsors/smnandre)</sup>  
 _✍ blog not found_  
-💬 on [![twitter](icon/twitter.svg) @simonandre](https://twitter.com/simonandre)
+💬 on [![bluesky](icon/bluesky.svg) @smnandre.dev](https://bsky.app/profile/mtarld.bsky.social)
+· [![twitter](icon/twitter.svg) @simonandre](https://twitter.com/simonandre)
 · [![linkedin](icon/linkedin.svg) @smnandre](https://www.linkedin.com/in/smnandre)
 
 ---
