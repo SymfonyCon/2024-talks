@@ -364,9 +364,11 @@ _✍ blog not found_
 Upsun is a cloud application platform that empowers developers to build, deploy, and manage applications with greater flexibility and efficiency. It offers advanced resource and container management, allowing teams to dynamically allocate computing resources and customize container configurations to meet the specific needs of their applications.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://docs.google.com/presentation/d/1Pz8wZKB_mZ3XVS4mmOXuBK4R8ps1nbrJpvXaXqKV4lM)  
 ~~Video~~  
-~~Blog post~~
+~~Blog post~~  
+Related Links: [Upsun Developer Center](https://devcenter.upsun.com/) · [Preview Environments](https://devcenter.upsun.com/posts/preview-environments-a-developers-secret-weapon/#but-what-do-you-need-to-make-this-happen)
+· [What is instant data cloning?](https://upsun.com/blog/data-cloning-the-game-changer-for-developing-cloud-based-applications/)
 
 By [Greg Qualls](https://connect.symfony.com/profile/gregqualls)  
 💻 on [![github](icon/github.svg) @gregqualls](https://github.com/gregqualls)  
