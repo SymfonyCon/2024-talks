@@ -373,7 +373,7 @@ Related Links: [Upsun Developer Center](https://devcenter.upsun.com/) · [Previ
 By [Greg Qualls](https://connect.symfony.com/profile/gregqualls)  
 💻 on [![github](icon/github.svg) @gregqualls](https://github.com/gregqualls)  
 _✍ blog not found_  
-💬 on [![bluesky](icon/bluesky.svg) @gregqualls.bsky.social](https://bsky.app/profile/gregqualls.bsky.social)
+💬 on [![bluesky](icon/bluesky.svg) @gregqualls.com](https://bsky.app/profile/gregqualls.com)
 · [![twitter](icon/twitter.svg) @gregqualls](https://twitter.com/gregqualls)
 · [![linkedin](icon/linkedin.svg) @gregqualls](https://linkedin.com/in/gregqualls)
 
