@@ -304,7 +304,7 @@ _✍ blog not found_
 This talk will explore various strategies for auditing data changes in Symfony applications. We will discuss where to begin and what factors to consider as the volume of data increases.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://basti.dev/talks/20241205_SymfonyCon_Vienna_Auditing_Data_Changes.pdf)  
 ~~Video~~  
 ~~Blog post~~
 
