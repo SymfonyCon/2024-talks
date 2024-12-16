@@ -718,7 +718,7 @@ By [Rob Allen](https://connect.symfony.com/profile/akrabat)
   <dd>Static analysis tools like PHPStan have become essential for PHP developers, and Symfony projects can greatly benefit from custom rules tailored to their specific needs. In this talk, I will guide Symfony developers through the process of writing custom PHPStan rules to enforce project-specific standards and catch domain-specific bugs, and freeing up valuable time by automating repetitive code review tasks.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/ondrejmirtes/crafting-custom-phpstan-rules-for-symfony-apps)  
 ~~Video~~  
 ~~Blog post~~
 
