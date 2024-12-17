@@ -940,7 +940,7 @@ By [Thibault Milan](https://connect.symfony.com/profile/thibaultmilan)
 
 ## Modern Approaches to Web Security: Stateless CSRF Protection Explained
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/nicolasgrekas/modern-approaches-to-web-security-stateless-csrf-protection-explained)  
 ~~Video~~  
 ~~Blog post~~
 
