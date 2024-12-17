@@ -880,7 +880,7 @@ In this talk, we'll explore ways other people have solved this, like FrankenPHP,
 These single containers could be orchestrated with systemd, supervisord, or Runit. We'll talk about the benefits and downsides of these solutions, compare them with the choice we made for our last project, s6-overlay, show off the s6-cli project I developed for this purpose and talk about recipes for running database migrations, cronjobs and a few more.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/dazz/running-symfony-in-multi-process-containers)  
 ~~Video~~  
 ~~Blog post~~
 
