@@ -580,9 +580,9 @@ How to make the asynchrone generation easy ?
 Come and discover how generating PDF's is now as easy as using twig !</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://neirda24.github.io/talk-sfcon-2024-vienna-gotenberg)  
 ~~Video~~  
-~~Blog post~~
+[Blog post](https://medium.com/the-sensiolabs-tech-blog/how-to-generate-a-pdf-file-in-a-few-lines-of-code-with-symfony-39786a679d29)
 
 By [Adrien Roches](https://connect.symfony.com/profile/neirda24)  
 💻 on [![github](icon/github.svg) @Neirda24](https://github.com/Neirda24)  
