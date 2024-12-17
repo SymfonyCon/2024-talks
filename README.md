@@ -630,7 +630,7 @@ In this talk, I’ll share some e-commerce horror stories from the trenches and 
 With these strategies (plus a dash of your magic), you’ll have the perfect recipe to ensure your app withstands the holiday rush—and you can relax, knowing your system won’t let you down</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/thomasdiluccio/bulletproofing-for-black-friday-symfonycon-vienna-2024)  
 ~~Video~~  
 ~~Blog post~~
 
