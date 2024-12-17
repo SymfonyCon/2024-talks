@@ -694,7 +694,7 @@ By [Viktor Pikaev](https://connect.symfony.com/profile/haruatari)
   <dd>Pick the right HTTP API architecture. Compare GraphQL, REST, and RPC, their strengths, and when to choose each for your project’s needs.</dd>
 </dl>
 
-[Slides](https://akrabat.com/wp-content/uploads/2024-10-09_PlatformSummit_GraphQL-REST-or-RPC.dark.pdf)  
+[Slides](https://akrabat.com/wp-content/uploads/2024-12-05_SymfonyCon_GraphQL-REST-or-RPC.dark.pdf)  
 ~~Video~~  
 ~~Blog post~~
 
