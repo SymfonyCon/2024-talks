@@ -653,7 +653,7 @@ By [Thomas di Luccio](https://connect.symfony.com/profile/thomasdiluccio)
   <dd>Microservices offer substantial benefits in terms of scalability and flexibility. However, these advantages come with challenges, including increased complexity and the potential for service fragmentation. In this talk, we’ll delve into a real-life case study demonstrating how adopting a microservice was the ideal solution for expanding functionality within an existing system. Through this example, we will explore the decision-making process, the implementation strategy, and the ultimate impact on system performance and flexibility.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/hayleemillar/symfonycon-vienna-2024)  
 ~~Video~~  
 ~~Blog post~~
 
