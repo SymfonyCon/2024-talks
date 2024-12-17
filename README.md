@@ -882,7 +882,8 @@ These single containers could be orchestrated with systemd, supervisord, or Runi
 
 [Slides](https://speakerdeck.com/dazz/running-symfony-in-multi-process-containers)  
 ~~Video~~  
-~~Blog post~~
+~~Blog post~~  
+[Cookbook Repo](https://github.com/dazz/s6-nginx-php-fpm)
 
 By [Anne-Julia Seitz](https://connect.symfony.com/profile/dazs)  
 💻 on [![github](icon/github.svg) @dazz](https://github.com/dazz)  
