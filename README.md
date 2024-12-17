@@ -518,7 +518,7 @@ By [Marie Minasyan](https://connect.symfony.com/profile/marie.minassyan)
 </dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/adamwojs/designing-for-change-extensibility-points-in-practice)  
 ~~Video~~  
 ~~Blog post~~
 
