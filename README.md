@@ -216,7 +216,7 @@ By [Johannes Wachter](https://connect.symfony.com/profile/wjohannes)
   <dd>Develop a Symfony-based fraud prevention system. Collect data, expose APIs, guide resource access, and block suspicious activities smoothly.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://docs.google.com/presentation/d/e/2PACX-1vR5aKfFNnB2zoWoF0P3VpPBGjkazsN2RRqmnKMtgMJE0la5sgc8aLeCMK1kDutcZ0M7WLWVZj8kHkYw/pub)  
 ~~Video~~  
 ~~Blog post~~
 
