@@ -808,7 +808,7 @@ This scenario is not some abstract scenario for a far away future. Projects get 
 Come & listen to some tales of an accidental maintainer and learn about what you can do to help try and prevent these situations from getting out of hand.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/jrf/resurrecting-the-dead-9ce0f678-63ff-4eb0-9c37-249fd56aee0a)  
 ~~Video~~  
 ~~Blog post~~
 
