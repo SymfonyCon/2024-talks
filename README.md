@@ -455,7 +455,7 @@ By [Nils Adermann](https://connect.symfony.com/profile/naderman)
 [Slides](https://davidbu.ch/slides/2024-12-05-symfonycon-vienna-postgres-json.html)  
 [Code: Examples and performance measurements](https://github.com/dbu/postgres-json)  
 ~~Video~~  
-[Blog post](https://davidbu.ch/mann/blog/2024-12-05/symfony-con-vienna-postgres-nosql/)
+[Blog post](https://www.liip.ch/en/blog/doctrine-orm-support-for-json)
 
 By [David Buchmann](https://connect.symfony.com/profile/dbu)  
 💻 on [![github](icon/github.svg) @dbu](https://github.com/dbu)  
