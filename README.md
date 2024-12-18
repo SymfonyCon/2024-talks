@@ -430,7 +430,7 @@ By [Antoine Bluchet](https://connect.symfony.com/profile/soyuka)
   <dd>Ever wondered what happens under the hood when you run a Composer update or why Composer 2 got so much faster? Learn about some of its inner workings, some lesser known parts and why they may be useful to you, as well as upcoming features and future plans.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://naderman.de/slippy/slides/2024-12-05-SymfonyCon-Vienna-Composer-Behind-the-Scenes.pdf)  
 ~~Video~~  
 ~~Blog post~~
 
