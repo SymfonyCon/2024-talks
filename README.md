@@ -927,7 +927,7 @@ _✍ blog not found_
 This talk will inspire every developer to view AI as a complement to their skills, not a competitor, preparing them for a future where AI tools are indispensable partners in innovation.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/thibaultmilan/code-less-create-more-unleashing-ai-secret-weapons-for-lazy-developers)  
 ~~Video~~  
 [Blog post](https://thibaultmilan.com/blog/2024/12/06/code-less-create-more-unleashing-ai-secret-weapons-for-lazy-developers/)
 
