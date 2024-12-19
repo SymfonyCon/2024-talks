@@ -14,7 +14,7 @@
 
 [Slides](https://speakerdeck.com/fabpot/symfonycon-vienna-2025-twig-still-relevant-in-2025)  
 ~~Video~~  
-~~Blog post~~  
+Blog post: [part 1](https://symfony.com/blog/new-in-twig-3-15-part-1) + [part 2](https://symfony.com/blog/new-in-twig-3-15-part-2)  
 
 By [Fabien Potencier](https://connect.symfony.com/profile/fabpot)  
 💻 on [![github](icon/github.svg) @fabpot](https://github.com/fabpot)  <sup>[💚](https://github.com/sponsors/fabpot)</sup>  
