@@ -182,7 +182,7 @@ By [Guillaume Moigneu](https://connect.symfony.com/profile/gmoigneu)
 [New `symfony/json-encoder` Component](https://github.com/symfony/json-encoder) <sup>([merged Pull Request](https://github.com/symfony/symfony/pull/51718))</sup>
 
 By [Mathias Arlaud](https://connect.symfony.com/profile/mtarld)  
-💻 on [![github](icon/github.svg) @mtarld](https://github.com/mtarld)  
+💻 on [![github](icon/github.svg) @mtarld](https://github.com/mtarld)  <sup>[💚](https://github.com/sponsors/mtarld)</sup>  
 _✍ blog not found_  
 💬 on [![bluesky](icon/bluesky.svg) @mtarld.bsky.social](https://bsky.app/profile/mtarld.bsky.social)
 · [![twitter](icon/twitter.svg) @matarld](https://twitter.com/matarld)
