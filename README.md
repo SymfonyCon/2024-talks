@@ -13,7 +13,7 @@
 ## Keynote · Twig: Still relevent in 2025?
 
 [Slides](https://speakerdeck.com/fabpot/symfonycon-vienna-2025-twig-still-relevant-in-2025)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/984) <sup>(not free)</sup>  
 Blog post: [part 1](https://symfony.com/blog/new-in-twig-3-15-part-1) + [part 2](https://symfony.com/blog/new-in-twig-3-15-part-2)  
 
 By [Fabien Potencier](https://connect.symfony.com/profile/fabpot)  
@@ -38,7 +38,7 @@ We'll also look at which formats to compress, which not to, when to use dynamic 
 </dl>
 
 [Slides](https://speakerdeck.com/dunglas/http-compression-in-php-and-symfony-apps)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1008) <sup>(not free)</sup>  
 [Blog post](https://dunglas.dev/2024/12/http-compression-in-php-new-symfony-assetmapper-feature/)  
 
 By [Kévin Dunglas](https://connect.symfony.com/profile/dunglas)  
@@ -63,7 +63,7 @@ You'll learn how to evolve from a simple Doctrine entity to a translatable entit
 </dl>
 
 [Slides](https://speakerdeck.com/alexanderschranz/from-translations-to-multi-dimension-entities)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1005) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Alexander Schranz](https://connect.symfony.com/profile/alexander-schranz)  
@@ -88,7 +88,7 @@ This talk is perfect for those looking to modernize their tools without starting
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1024) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Antonis Kalipetis](https://connect.symfony.com/profile/akalipetis)  
@@ -109,7 +109,7 @@ Come prepared to level up your Symfony form skills with practical examples and a
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1087) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Alexandre Salomé](https://connect.symfony.com/profile/alexandresalome)  
@@ -134,7 +134,7 @@ Then we’ll explore the future of Symfony UX with a sneak peek at 2025, includi
 </dl>
 
 [Slides](https://speakerdeck.com/smnandre/symfony-ux-2024-recap-and-whats-next)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1001) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Simon André](https://connect.symfony.com/profile/simonandre)  
@@ -155,9 +155,9 @@ _✍ blog not found_
 This talk will show by example how to implement ONNX (Open Neural Network Exchange) and Transformer models to bring advanced AI capabilities to your Symfony projects.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://guillaume.id/pdfs/SymfonyCon2024Vienna.pdf)  
 [Code example](https://github.com/gmoigneu/symfonycon2024-acmestore)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1030) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Guillaume Moigneu](https://connect.symfony.com/profile/gmoigneu)  
@@ -177,7 +177,7 @@ By [Guillaume Moigneu](https://connect.symfony.com/profile/gmoigneu)
 </dl>
 
 [Slides](https://www.canva.com/design/DAGXxVq6D10/flKFopidYBR-gSgRXU8OIg/view)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1003) <sup>(not free)</sup>  
 ~~Blog post~~  
 [New `symfony/json-encoder` Component](https://github.com/symfony/json-encoder) <sup>([merged Pull Request](https://github.com/symfony/symfony/pull/51718))</sup>
 
@@ -197,8 +197,8 @@ _✍ blog not found_
   <dd>In this forward-thinking talk, I'll take you on a journey through the integration of AI in Symfony projects. Drawing from our real-world experiences, I'll demonstrate how to build adaptable AI systems that can withstand the ever-shifting landscape of AI technologies and regulations. You'll learn our strategies for creating a provider-agnostic AI architecture, ensuring your Symfony applications remain flexible amidst changing requirements and GDPR considerations. Join me to discover how to future-proof your projects and avoid vendor lock-in while harnessing the power of AI in your Symfony ecosystem.</dd>
 </dl>
 
-~~Slides~~  
-~~Video~~  
+[Slides](https://modelflow-ai.github.io/symfony-con-2024/index.html)  
+[Video](https://live.symfony.com/account/replay/video/1012) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Johannes Wachter](https://connect.symfony.com/profile/wjohannes)  
@@ -217,7 +217,7 @@ By [Johannes Wachter](https://connect.symfony.com/profile/wjohannes)
 </dl>
 
 [Slides](https://docs.google.com/presentation/d/e/2PACX-1vR5aKfFNnB2zoWoF0P3VpPBGjkazsN2RRqmnKMtgMJE0la5sgc8aLeCMK1kDutcZ0M7WLWVZj8kHkYw/pub)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1031) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Moritz Schuh](https://connect.symfony.com/profile/moritz-schuh)  
@@ -237,7 +237,7 @@ This talk will give you a better understanding of how you and your brain evolved
 </dl>
 
 [Slides](https://speakerdeck.com/xosofox/refactor-your-code-refactor-yourself)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1014) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Peter Dietrich](https://connect.symfony.com/profile/xosofox)  
@@ -256,7 +256,7 @@ _✍ blog not found_
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/986) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Michelle Sanver](https://connect.symfony.com/profile/michellesanver)  
@@ -305,7 +305,7 @@ This talk will explore various strategies for auditing data changes in Symfony a
 </dl>
 
 [Slides](https://basti.dev/talks/20241205_SymfonyCon_Vienna_Auditing_Data_Changes.pdf)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1011) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Sebastian Plagemann](https://connect.symfony.com/profile/splagemann)  
@@ -323,8 +323,8 @@ _✍ blog not found_
   <dd>Connecting the broken dots between the dev team and the marketing team to create an unholy synergy. Giving a simple guide to help marketing and development teams work better and more effectively as a team to create better products, messaging, and user experiences. Highlight collaboration practices, tools and real-world experiences to ensure both teams are aligned and achieve success.</dd>
 </dl>
 
-~~Slides~~  
-~~Video~~  
+[Slides](https://docs.google.com/presentation/d/1le7IqTFVIKvxxcaNnDOZ18fiKxG29BT5A1Q4F0-WO5c)  
+[Video](https://live.symfony.com/account/replay/video/1027) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Celeste Van Der Watt](https://connect.symfony.com/profile/cvanderwatt)  
@@ -344,7 +344,7 @@ In this talk I'll be your guide in a deep dive into Dagger-land, demonstrating h
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/994) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Paul Dragoonis](https://connect.symfony.com/profile/dragoonis)  
@@ -365,7 +365,7 @@ Upsun is a cloud application platform that empowers developers to build, deploy,
 </dl>
 
 [Slides](https://docs.google.com/presentation/d/1Pz8wZKB_mZ3XVS4mmOXuBK4R8ps1nbrJpvXaXqKV4lM)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1028) <sup>(not free)</sup>  
 ~~Blog post~~  
 Related Links: [Upsun Developer Center](https://devcenter.upsun.com/) · [Preview Environments](https://devcenter.upsun.com/posts/preview-environments-a-developers-secret-weapon/#but-what-do-you-need-to-make-this-happen)
 · [What is instant data cloning?](https://upsun.com/blog/data-cloning-the-game-changer-for-developing-cloud-based-applications/)
@@ -387,7 +387,7 @@ _✍ blog not found_
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/998) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Dave Liddament](https://connect.symfony.com/profile/daveliddament)  
@@ -409,7 +409,7 @@ After covering the history behind years of discussion and research by the Symfon
 </dl>
 
 [Slides](https://speakerdeck.com/soyuka/symfony-mapper-component)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1004) <sup>(not free)</sup>  
 [Blog post](https://soyuka.me/symfony-object-mapper-component/)  
 [Pull Request for `symfony/object-mapper`](https://github.com/symfony/symfony/pull/51741)
 
@@ -431,7 +431,7 @@ By [Antoine Bluchet](https://connect.symfony.com/profile/soyuka)
 </dl>
 
 [Slides](https://naderman.de/slippy/slides/2024-12-05-SymfonyCon-Vienna-Composer-Behind-the-Scenes.pdf)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/991) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Nils Adermann](https://connect.symfony.com/profile/naderman)  
@@ -454,7 +454,7 @@ By [Nils Adermann](https://connect.symfony.com/profile/naderman)
 
 [Slides](https://davidbu.ch/slides/2024-12-05-symfonycon-vienna-postgres-json.html)  
 [Code: Examples and performance measurements](https://github.com/dbu/postgres-json)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/990) <sup>(not free)</sup>  
 [Blog post](https://www.liip.ch/en/blog/doctrine-orm-support-for-json)
 
 By [David Buchmann](https://connect.symfony.com/profile/dbu)  
@@ -474,7 +474,7 @@ By [David Buchmann](https://connect.symfony.com/profile/dbu)
 </dl>
 
 [Slides](https://speakerdeck.com/tucksaun/42-best-practices-for-symfony-a-decade-later)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1000) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Tugdual Saunier](https://connect.symfony.com/profile/tucksaun)  
@@ -487,9 +487,6 @@ _✍ blog not found_
 
 ---
 
-
-
-
 ## Carry out the best audit for your client
 
 <dl>
@@ -499,7 +496,7 @@ _✍ blog not found_
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/995) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Marie Minasyan](https://connect.symfony.com/profile/marie.minassyan)  
@@ -519,7 +516,7 @@ By [Marie Minasyan](https://connect.symfony.com/profile/marie.minassyan)
 </dl>
 
 [Slides](https://speakerdeck.com/adamwojs/designing-for-change-extensibility-points-in-practice)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1085) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Adam Wójs](https://connect.symfony.com/profile/awojs)  
@@ -542,7 +539,7 @@ In this talk Nigel will take a tour through some history of the DevOps movement,
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1023) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Nigel Kersten](https://connect.symfony.com/profile/nigelk)  
@@ -555,8 +552,6 @@ _✍ blog not found_
 · [![linkedin](icon/linkedin.svg) @nigelkersten](https://linkedin.com/in/nigelkersten)
 
 ---
-
-
 
 ## The missing Gotenberg Bundle. Components, Assemble!
 
@@ -581,7 +576,7 @@ Come and discover how generating PDF's is now as easy as using twig !</dd>
 </dl>
 
 [Slides](https://neirda24.github.io/talk-sfcon-2024-vienna-gotenberg)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1009) <sup>(not free)</sup>  
 [Blog post](https://medium.com/the-sensiolabs-tech-blog/how-to-generate-a-pdf-file-in-a-few-lines-of-code-with-symfony-39786a679d29)
 
 By [Adrien Roches](https://connect.symfony.com/profile/neirda24)  
@@ -608,7 +603,7 @@ _✍ blog not found_
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/989) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Alexander M. Turek](https://connect.symfony.com/profile/derrabus)  
@@ -631,7 +626,7 @@ With these strategies (plus a dash of your magic), you’ll have the perfect rec
 </dl>
 
 [Slides](https://speakerdeck.com/thomasdiluccio/bulletproofing-for-black-friday-symfonycon-vienna-2024)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1026) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Thomas di Luccio](https://connect.symfony.com/profile/thomasdiluccio)  
@@ -643,9 +638,6 @@ By [Thomas di Luccio](https://connect.symfony.com/profile/thomasdiluccio)
 
 ---
 
-
-
-
 ## Crafting a Microservice That Fits Your Needs
 
 <dl>
@@ -654,7 +646,7 @@ By [Thomas di Luccio](https://connect.symfony.com/profile/thomasdiluccio)
 </dl>
 
 [Slides](https://speakerdeck.com/hayleemillar/symfonycon-vienna-2024)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1033) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Haylee Millar](https://connect.symfony.com/profile/haylee)  
@@ -676,7 +668,7 @@ _✍ blog not found_
 </dl>
 
 [Slides](https://haru-atari.com/files/conferences/how-to-migrate-the-application-to-symfony-scheduler.pdf)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/983) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Viktor Pikaev](https://connect.symfony.com/profile/haruatari)  
@@ -695,7 +687,7 @@ By [Viktor Pikaev](https://connect.symfony.com/profile/haruatari)
 </dl>
 
 [Slides](https://akrabat.com/wp-content/uploads/2024-12-05_SymfonyCon_GraphQL-REST-or-RPC.dark.pdf)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/999) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Rob Allen](https://connect.symfony.com/profile/akrabat)  
@@ -708,9 +700,6 @@ By [Rob Allen](https://connect.symfony.com/profile/akrabat)
 
 ---
 
-
-
-
 ## Crafting Custom PHPStan Rules for Symfony Apps
 
 <dl>
@@ -719,7 +708,7 @@ By [Rob Allen](https://connect.symfony.com/profile/akrabat)
 </dl>
 
 [Slides](https://speakerdeck.com/ondrejmirtes/crafting-custom-phpstan-rules-for-symfony-apps)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/988) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Ondřej Mirtes](https://connect.symfony.com/profile/mirtes)  
@@ -740,7 +729,7 @@ We'll take advantage of this journey to develop a new feature of the component: 
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1010) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Raphaël Geffroy](https://connect.symfony.com/profile/raphael-geffroy)  
@@ -761,7 +750,7 @@ _✍ blog not found_
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1029) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Kemi Elizabeth Ojogbede](https://connect.symfony.com/profile/kemiojogbede)  
@@ -771,8 +760,6 @@ _✍ blog not found_
 
 ---
 
-
-
 ## Green IT, Accessibility, GDPR: 360 Vision of Sustainability
 
 <dl>
@@ -781,7 +768,7 @@ _✍ blog not found_
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/996) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Céline Déis Nuel](https://connect.symfony.com/profile/celine-deis)  
@@ -809,7 +796,7 @@ Come & listen to some tales of an accidental maintainer and learn about what you
 </dl>
 
 [Slides](https://speakerdeck.com/jrf/resurrecting-the-dead-9ce0f678-63ff-4eb0-9c37-249fd56aee0a)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1006) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Juliette Reinders Folmer](https://connect.symfony.com/profile/jrfnl)  
@@ -829,7 +816,7 @@ _✍ blog not found_
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1015) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Mathéo Daninos](https://connect.symfony.com/profile/mathdns)  
@@ -839,8 +826,6 @@ _✍ blog not found_
 · [![linkedin](icon/linkedin.svg) @mathéo-d](https://linkedin.com/in/mathéo-d)
 
 ---
-
-
 
 ## Revolutionize Searchandising with Gally!
 
@@ -856,7 +841,7 @@ Discover how Gally harnesses the power of Symfony and API Platform to offer seam
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/993) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Romain Ruaud](https://connect.symfony.com/profile/romainruaud)  
@@ -881,7 +866,7 @@ These single containers could be orchestrated with systemd, supervisord, or Runi
 </dl>
 
 [Slides](https://speakerdeck.com/dazz/running-symfony-in-multi-process-containers)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1013) <sup>(not free)</sup>  
 ~~Blog post~~  
 [Cookbook Repo](https://github.com/dazz/s6-nginx-php-fpm)
 
@@ -901,7 +886,7 @@ By [Anne-Julia Seitz](https://connect.symfony.com/profile/dazs)
 </dl>
 
 [Slides](https://speakerdeck.com/alcaeus/from-pickles-to-pie-sweeten-your-php-extension-installs)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/985) <sup>(not free)</sup>  
 ~~Blog post~~  
 [The PHP Installer for Extensions](https://github.com/php/pie)  
 [Extensions that support PIE](https://packagist.org/extensions)
@@ -915,9 +900,6 @@ _✍ blog not found_
 
 ---
 
-
-
-
 ## Code Less, Create More: Unleashing AI Secret Weapons for Lazy(?) Developers!
 
 <dl>
@@ -928,7 +910,7 @@ This talk will inspire every developer to view AI as a complement to their skill
 </dl>
 
 [Slides](https://speakerdeck.com/thibaultmilan/code-less-create-more-unleashing-ai-secret-weapons-for-lazy-developers)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/992) <sup>(not free)</sup>  
 [Blog post](https://thibaultmilan.com/blog/2024/12/06/code-less-create-more-unleashing-ai-secret-weapons-for-lazy-developers/)
 
 By [Thibault Milan](https://connect.symfony.com/profile/thibaultmilan)  
@@ -941,8 +923,13 @@ By [Thibault Milan](https://connect.symfony.com/profile/thibaultmilan)
 
 ## Modern Approaches to Web Security: Stateless CSRF Protection Explained
 
+<dl>
+  <dt>Description</dt>
+  <dd>In today’s evolving threat landscape, robust web security practices are paramount to safeguarding applications and user data. This talk delves into modern approaches to web security, with a spotlight on stateless CSRF (Cross-Site Request Forgery) protection. Drawing from recent advancements in Symfony, we’ll explore how to secure web applications without relying on traditional session storage.</dd>
+</dl>
+
 [Slides](https://speakerdeck.com/nicolasgrekas/modern-approaches-to-web-security-stateless-csrf-protection-explained)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1061) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Nicolas Grekas](https://connect.symfony.com/profile/nicolas-grekas)  
@@ -970,7 +957,7 @@ In this talk, I'm going to put my Security maintainer hat on to answer these que
 </dl>
 
 [Slides](https://speakerdeck.com/chalasr/symfony-authentication-whats-next-symfonycon-vienna-2024)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1002) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Robin Chalas](https://connect.symfony.com/profile/chalas_r)  
@@ -980,7 +967,6 @@ _✍ blog not found_
 · [![twitter](icon/twitter.svg) @chalas_r](https://twitter.com/chalas_r)
 · [![mastodon](icon/mastodon.svg) @chalasr@phpc.social](https://phpc.social/@chalasr)
 · [![linkedin](icon/linkedin.svg) @robinchalas](https://linkedin.com/in/robinchalas)
-
 
 ---
 
