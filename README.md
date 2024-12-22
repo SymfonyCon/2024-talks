@@ -840,7 +840,7 @@ Join us for an engaging talk where we unveil our journey in crafting Gally.
 Discover how Gally harnesses the power of Symfony and API Platform to offer seamless extensibility for developers while boosting ease of use and revenue for businesses.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/romainruaud/2024-gally-at-symfonycon-revolutionize-searchandising-with-gally)  
 [Video](https://live.symfony.com/account/replay/video/993) <sup>(not free)</sup>  
 ~~Blog post~~
 
