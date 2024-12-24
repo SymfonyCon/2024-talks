@@ -728,7 +728,7 @@ By [Ondřej Mirtes](https://connect.symfony.com/profile/mirtes)
 We'll take advantage of this journey to develop a new feature of the component: sending postal mails.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://slides.com/raphael-geffroy/symfony-notifier-return-of-the-mailman)  
 [Video](https://live.symfony.com/account/replay/video/1010) <sup>(not free)</sup>  
 ~~Blog post~~
 
