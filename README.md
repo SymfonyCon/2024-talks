@@ -345,7 +345,8 @@ In this talk I'll be your guide in a deep dive into Dagger-land, demonstrating h
 
 ~~Slides~~  
 [Video](https://live.symfony.com/account/replay/video/994) <sup>(not free)</sup>  
-~~Blog post~~
+~~Blog post~~  
+[Pull Request for `symfony/symfony`](https://github.com/symfony/symfony/pull/59240)
 
 By [Paul Dragoonis](https://connect.symfony.com/profile/dragoonis)  
 💻 on [![github](icon/github.svg) @dragoonis](https://github.com/dragoonis)  
