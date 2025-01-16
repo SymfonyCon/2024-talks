@@ -87,7 +87,7 @@ This approach not only enhances performance but also preserves backward compatib
 This talk is perfect for those looking to modernize their tools without starting from scratch.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://github.com/user-attachments/files/18439406/2024-12-05-akalipetis-symfonycon-php-go-clis.pdf)  
 [Video](https://live.symfony.com/account/replay/video/1024) <sup>(not free)</sup>  
 ~~Blog post~~
 
