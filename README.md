@@ -627,14 +627,13 @@ With these strategies (plus a dash of your magic), you’ll have the perfect rec
 </dl>
 
 [Slides](https://speakerdeck.com/thomasdiluccio/bulletproofing-for-black-friday-symfonycon-vienna-2024)  
-[Video](https://live.symfony.com/account/replay/video/1026) <sup>(not free)</sup>  
-~~Blog post~~
+[Video](https://www.youtube.com/watch?v=93PUVIjDuHY) <sup>(free)</sup>  
+[Blog post](https://blog.blackfire.io/bulletproofing-for-black-friday-video-recap.html)
 
 By [Thomas di Luccio](https://connect.symfony.com/profile/thomasdiluccio)  
 💻 on [![github](icon/github.svg) @thomasdiluccio](https://github.com/thomasdiluccio)  
 ✍ on [🌐 thomas.diluccio.fr](https://thomas.diluccio.fr/)  <sup>[![rss](icon/rss.svg)](https://thomas.diluccio.fr/feed/)</sup>  
 💬 on [![bluesky](icon/bluesky.svg) @thomas.diluccio.fr](https://bsky.app/profile/thomas.diluccio.fr)
-· [![twitter](icon/twitter.svg) @zenhysteria](https://twitter.com/zenhysteria)
 · [![linkedin](icon/linkedin.svg) @thomasdiluccio](https://linkedin.com/in/thomasdiluccio)
 
 ---
